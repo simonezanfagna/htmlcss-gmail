@@ -1,0 +1,78 @@
+body{
+  background-image: url(https://sfondo.info/i/original/3/1/7/6033.jpg);
+  background-position: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+main{
+  width: 900px;
+  margin: auto;
+}
+
+header{
+  text-align: left;
+}
+
+.logo{
+  width: 70px
+}
+
+.nome_logo{
+  color: white;
+  text-transform: capitalize;
+  font-size: 30px
+}
+
+.linea{
+  color: white;
+  background-color: white;
+}
+
+p{
+  color: white;
+  font-size: 17px;
+}
+
+.unread{
+  line-height: 30px;
+}
+
+.n_email{
+  display: inline-block;
+  border-radius: 100%;
+  background-color: #d54b3d;
+  border-color: #c44241;
+  border-style: solid;
+  border-width: 2px;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  vertical-align: middle;
+
+}
+
+.posta{
+  background-color: aliceblue;
+  border-style: solid;
+  border-width: 2px;
+  border-color: steelblue;
+  color: black;
+}
+
+.testo_email{
+  color: dimgray;
+}
+
+footer{
+  margin: auto;
+  text-align: center;
+}
+
+.p_footer{
+  font-size: 11px;
+}
+
+.span_footer{
+  font-size: 8px;
+  font-style: italic;
+}
